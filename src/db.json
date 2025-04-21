@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "c7de",
+      "fullName": "lakavath",
+      "fatherName": "laka",
+      "motherName": "vath",
+      "age": 24,
+      "gender": "Male",
+      "mobileNumber": "9876549847",
+      "email": "laka@gmail.com",
+      "address": "kjnfeh9e8h",
+      "country": "india",
+      "state": "tg",
+      "mandal": "thirumalagiri",
+      "pinCode": "50021",
+      "password": "12345",
+      "confirmPassword": "laka"
+    }
+  ],
+  "loginData": [
+    {
+      "id": "3bf1",
+      "email": "laka@gmail.com",
+      "password": "laka"
+    },
+    {
+      "id": "d09b",
+      "email": "laka@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
